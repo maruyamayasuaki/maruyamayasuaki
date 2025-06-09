@@ -47,11 +47,22 @@
 </div>
 
 ## 🛠️ **Tech Stack**
-
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruyamayasuaki&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maruyamayasuaki&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maruyamayasuaki&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maruyamayasuaki&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maruyamayasuaki&theme=gruvbox&utcOffset=9)
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
 ### 📱  **Mobile Development**
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
