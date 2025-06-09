@@ -18,12 +18,12 @@
 <tr>
 <td width="200" align="center">
 <img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
+<br><strong>Python</strong>
 </td>
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
+🚀 **AI Engineer** passionate about AI application  
 
 🌍 **Location:** Japan 🇯🇵  
 💼 **Focus:** Building beautiful mobile applications  
