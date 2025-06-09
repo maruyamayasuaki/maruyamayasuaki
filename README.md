@@ -50,7 +50,9 @@
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
-
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruyamayasuaki&show_icons=true&theme=radical)
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruyamayasuaki&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maruyamayasuaki&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maruyamayasuaki&theme=gruvbox)
