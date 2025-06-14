@@ -112,5 +112,5 @@
   
   **⭐ From [user](https://github.com/user) with ❤️**
   
-  *"Flutter makes everything beautiful! 🦋"*
+  *"Python makes everything beautiful! 🦋"*
 </div>
