@@ -94,7 +94,8 @@
 ## 🏆 **GitHub Trophies (Commits)**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maruyamayasuaki&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=maruyamayasuaki)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ## 💭 **Random Dev Quote**
