@@ -1,5 +1,9 @@
 <img src="https://komarev.com/ghpvc/?username=maruyamayasuaki" />
 
+[![Contributions](https://badgen.org/img/qiita/yasu_qita/contributions?style=plastic)](https://qiita.com/yasu_qita)
+
+<img height="20" src="https://qiita-badge.apiapi.app/s/yasu_qita/contributions.svg" />
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
