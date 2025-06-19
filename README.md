@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=maruyamayasuaki" />
   <a href="https://qiita.com/yasu_qita"><img src="https://badgen.org/img/qiita/yasu_qita/contributions?style=plastic" alt="Contributions" /></a>
   <a href="https://qiita.com/yasu_qita"><img src="https://badgen.org/img/qiita/yasu_qita/articles?style=plastic" alt="Articles" /></a>
@@ -92,7 +92,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
   
   **⭐ From [maruyamayasuaki](https://github.com/maruyamayasuaki) with ❤️**
   
