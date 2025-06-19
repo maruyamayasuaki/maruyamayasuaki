@@ -1,8 +1,8 @@
-<img src="https://komarev.com/ghpvc/?username=maruyamayasuaki" />
-
-[![Contributions](https://badgen.org/img/qiita/yasu_qita/contributions?style=plastic)](https://qiita.com/yasu_qita)
-
-[![Articles](https://badgen.org/img/qiita/yasu_qita/articles?style=plastic)](https://qiita.com/yasu_qita)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=maruyamayasuaki" />
+  <a href="https://qiita.com/yasu_qita"><img src="https://badgen.org/img/qiita/yasu_qita/contributions?style=plastic" alt="Contributions" /></a>
+  <a href="https://qiita.com/yasu_qita"><img src="https://badgen.org/img/qiita/yasu_qita/articles?style=plastic" alt="Articles" /></a>
+</div>
 
 
 <div align="center">
@@ -29,11 +29,11 @@
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm User!**
-🚀 **AI Engineer** passionate about AI application  
-
+### 👋 **Hi, I'm Yasuaki Maruyama!**
+🚀 **AI Engineer** Passionate about AI application  
+🔬 **Material Informatics Researcher**
+<br>🎓 **Kyoto Graduate School of Engineering**</br>
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
 ☕ **Powered by:** Coffee and curiosity  
 🎯 **Goal:** Creating amazing user experiences  
 
@@ -96,5 +96,5 @@
   
   **⭐ From [maruyamayasuaki](https://github.com/maruyamayasuaki) with ❤️**
   
-  *"Python makes everything beautiful! 🦋"*
+  *"Creating the future with AI and materials science! 🔬✨"*
 </div>
