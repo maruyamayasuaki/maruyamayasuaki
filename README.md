@@ -2,7 +2,7 @@
 
 [![Contributions](https://badgen.org/img/qiita/yasu_qita/contributions?style=plastic)](https://qiita.com/yasu_qita)
 
-<img height="20" src="https://qiita-badge.apiapi.app/s/yasu_qita/contributions.svg" />
+[![Articles](https://badgen.org/img/qiita/yasu_qita/articles?style=plastic)](https://qiita.com/yasu_qita)
 
 
 <div align="center">
