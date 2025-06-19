@@ -78,7 +78,7 @@
 
 <div align="center">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=maruyamayasuaki)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=maruyamayasuaki&row=2&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ## 💭 **Random Dev Quote**
