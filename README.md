@@ -57,13 +57,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maruyamayasuaki&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maruyamayasuaki&theme=gruvbox&utcOffset=9)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruyamayasuaki&theme=transparent&border_radius=10&starting_year=2023" alt="readme streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maruyamayasuaki&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
 </td>
 </tr>
 </table>
